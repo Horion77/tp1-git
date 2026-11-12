@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello world\n");
+    printf("Logiciel de course GT3 - systemes OK\n");
     return 0;
 }
