@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Logiciel de course GT3 - systemes OK\n");
+    printf("Logiciel de course Hypercar - systemes OK\n");
     return 0;
 }
